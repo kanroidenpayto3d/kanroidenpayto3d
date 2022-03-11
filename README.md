@@ -30,7 +30,7 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=ben-wizard&label=PROFILE+VIEWS&color=grey"/>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ben-wizard&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ben-kanroiden&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-wizard&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
 </a>
 
