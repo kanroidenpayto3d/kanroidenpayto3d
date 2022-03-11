@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/867089107216891930/888915455002157076/wizard_tattoo.png">
+  <img src="https://cdn.discordapp.com/attachments/944724652369010748/951935519275765810/kanroflex.jpg">
 </div>
 
 <div align="center">
