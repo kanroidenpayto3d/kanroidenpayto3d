@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="banner resim url'si">
+  <img src="https://cdn.discordapp.com/attachments/944336106718113863/951939731736907826/KANRO_BABA_4K_FULL_ONLINE_RXSPXCT.png">
 </div>
 
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/DISCORD_ID" target"blank_"><img src="https://img.shields.io/badge/Kanroiden%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="SPOTIFY_LINKI" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="YOUTUBE_LINKI" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="GITHUB_LINKI" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discord.com/users/174905067642552320" target"blank_"><img src="https://img.shields.io/badge/Kanroiden%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://open.spotify.com/user/0xf8gz88skbnwike1mu4dvrsd?si=86dadffb06e44df1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCvPcc-_NzlNN7l1RszWKjIA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/kanroidenpayto3d" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
@@ -28,15 +28,15 @@
 <div align="center">
 <h3>Github Stats</h3>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=GITHUB_KULLANICI_ADI&label=PROFILE+VIEWS&color=grey"/>
+    <img src="https://komarev.com/ghpvc/?username=kanroidenpayto3d&label=PROFILE+VIEWS&color=grey"/>
   </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADI&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADI&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanroidenpayto3d&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanroidenpayto3d&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
 </a>
 
 <div align="center">
 <h3>Discord Activity</h3>
-   <a href="https://discord.com/users/DISCORD_ID" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/DISCORD_ID?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   <a href="https://discord.com/users/174905067642552320" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/174905067642552320?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
