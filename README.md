@@ -5,7 +5,7 @@
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/174905067642552320" target"blank_"><img src="https://img.shields.io/badge/Kanroiden%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/user/0xf8gz88skbnwike1mu4dvrsd?si=86dadffb06e44df1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31m2in5tjinwnndmbizbaeb2owze?si=1b6eba7b2c9a497e" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCvPcc-_NzlNN7l1RszWKjIA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://github.com/kanroidenpayto3d" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
